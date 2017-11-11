@@ -1,0 +1,40 @@
+
+ .fontW{
+   font-style: Helvetica;
+   color-white
+ }
+
+ .fontG{
+   font-style: Helvetica;
+   color-white
+ }
+ .bold{
+   font-weight: bold;
+ }
+ .Size18 {
+  font-size: 18px;
+ }
+ .Size32 {
+  font-size: 32px;
+ }
+ .Size70 {
+  font-size: 70px;
+ }
+ .Size23 {
+  font-size: 23px;
+ }
+ .Size14 {
+  font-size: 14px;
+ }
+ .Size11 {
+  font-size: 11px;
+ }
+ .FrontBack{
+   background-color: dimgray;
+   color:white;
+ }
+ body {
+   background-image: url("../images/the-flatiron-building.png");
+   background-size: auto;;
+
+ }
