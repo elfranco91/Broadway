@@ -1,12 +1,12 @@
 
  .fontW{
    font-style: Helvetica;
-   color-white
+   color: white;
  }
 
  .fontG{
    font-style: Helvetica;
-   color-white
+   color: white;
  }
  .bold{
    font-weight: bold;
@@ -36,5 +36,9 @@
  body {
    background-image: url("../images/the-flatiron-building.png");
   background-repeat: no-repeat;
-
  }
+ a {
+  color: white;
+
+
+}
