@@ -9,7 +9,7 @@
  .Size14 {font-size: 14px;}
  .size11 {font-size: 11px;}
  .FrontBack{background-color: dimgray;color:white;}
- body {
+ .bimage {
    background-image: url("../images/the-flatiron-building.png");
    background-repeat: no-repeat;
    height: 900px;
