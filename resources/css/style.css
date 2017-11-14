@@ -1,44 +1,26 @@
 
- .fontW{
-   font-style: Helvetica;
-   color: white;
- }
-
- .fontG{
-   font-style: Helvetica;
-   color: white;
- }
- .bold{
-   font-weight: bold;
- }
- .Size18 {
-  font-size: 18px;
- }
- .Size32 {
-  font-size: 32px;
- }
- .Size70 {
-  font-size: 70px;
- }
- .Size23 {
-  font-size: 23px;
- }
- .Size14 {
-  font-size: 14px;
- }
- .Size11 {
-  font-size: 11px;
- }
- .FrontBack{
-   background-color: dimgray;
-   color:white;
- }
+ .fontw{font-style: Helvetica;color: white;}
+ .fontg{font-style: Helvetica;color: white;}
+ .bold {font-weight: bold;}
+ .size18 {font-size: 18px;}
+ .size32 {font-size: 32px;}
+ .size70 {font-size: 70px;}
+ .size23 {font-size: 23px;}
+ .Size14 {font-size: 14px;}
+ .size11 {font-size: 11px;}
+ .FrontBack{background-color: dimgray;color:white;}
  body {
    background-image: url("../images/the-flatiron-building.png");
-  background-repeat: no-repeat;
+   background-repeat: no-repeat;
+   height: 900px;
  }
- a {
-  color: white;
+ a {color: white;font-style: Helvetica;}
+.sm-background {
+  background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
 
+}
+.bottombar{
+background-color: dimgray;
 
 }
